@@ -8,4 +8,4 @@ How to use:
 * `git clone git@github.com:polkhovsky/postmark-templates-export-import.git`
 * run `npm install`
 * modify `app.js` with your source and target server tokens where specified
-* run `node app.js'
+* run `node app.js`
